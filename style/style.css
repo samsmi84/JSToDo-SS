@@ -13,3 +13,11 @@ h3 {
     font-size: 75px;
     color: green;
 }
+
+body {
+    background-color: orange;
+}
+
+.margin {
+    margin: 40px;
+}
